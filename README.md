@@ -2,8 +2,6 @@
 
 ## Задание 1. Yandex Cloud
 
-Инфраструктура создана с помощью Terraform.
-
 ### Созданные ресурсы
 
     terraform state list
